@@ -1,0 +1,7 @@
+C:\Users\Technipal\source\repos\NotificationApp\NotificationApp\obj\Debug\NotificationApp.csproj.AssemblyReference.cache
+C:\Users\Technipal\source\repos\NotificationApp\NotificationApp\obj\Debug\NotificationApp.csproj.CoreCompileInputs.cache
+C:\Users\Technipal\source\repos\NotificationApp\NotificationApp\bin\Debug\NotificationApp.exe.config
+C:\Users\Technipal\source\repos\NotificationApp\NotificationApp\bin\Debug\NotificationApp.exe
+C:\Users\Technipal\source\repos\NotificationApp\NotificationApp\bin\Debug\NotificationApp.pdb
+C:\Users\Technipal\source\repos\NotificationApp\NotificationApp\obj\Debug\NotificationApp.exe
+C:\Users\Technipal\source\repos\NotificationApp\NotificationApp\obj\Debug\NotificationApp.pdb
